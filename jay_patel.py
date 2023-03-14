@@ -24,4 +24,3 @@ def main():
 
 main()
 
-"""Feature request: add ansi escape codes so it's randomly bolded, underlined, italicized, colored, etc."""
